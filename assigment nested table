@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Table</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>    <table>
+                <tr>
+                    <h2>Shop by Category</h2>
+                </tr>
+                <tr>
+                    <td> <img src="https://images-eu.ssl-images-amazon.com/images/G/31/img19/2020/PC/Fresh._SY116_CB431401553_.jpg"
+                        width="200" hight="200"  />
+                        <p>Fresh</p></td>
+                        
+                    <td>
+                        <img src="https://images-eu.ssl-images-amazon.com/images/G/31/img19/2020/PC/Mobile._SY116_CB431401553_.jpg"
+                        width="200" hight="200"  />
+                        <p>Mobile</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="https://images-eu.ssl-images-amazon.com/images/G/31/img19/2020/PC/Fashion._SY116_CB431401553_.jpg"
+                        width="200" hight="200"  />
+                        <p>Fasion</p></td>
+                       
+                    <td><img src="https://images-eu.ssl-images-amazon.com/images/G/31/img19/2020/PC/Electronic._SY116_CB431401553_.jpg"
+                        width="200" hight="200"  />
+                        <p>Electronic</p>
+                    </td>
+                   
+                </tr>
+            
+                  
+            </table></td>
+            <td>    <table>
+                <tr>
+                    <h2>Bill Payment Options</h2>
+                </tr>
+                <tr>
+                    <td> <img src="https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/Kartik/FEBGTM/LPG_186x116._SY116_CB646259375_.jpg"
+                        width="200" hight="200"  />
+                        <p>Mobile recharge</p></td>
+                        
+                    <td>
+                        <img src="https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/Kartik/FEBGTM/Electricity_186x116._SY116_CB646259375_.jpg"
+                        width="200" hight="200"  />
+                        <p>Gas bOOking</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/Kartik/FEBGTM/Broadband_186x116._SY116_CB646259375_.jpg"
+                        width="200" hight="200"  />
+                        <p>Broadband bill</p></td>
+                       
+                    <td><img src="https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/Kartik/FEBGTM/PCrevised/DTH_186x116._SY116_CB628894454_.jpg"
+                        width="200" hight="200"  />
+                        <p>DTH bill payment</p>
+                    </td>
+                   
+                </tr>
+            
+                  
+            </table></td>
+            <td>    <table>
+                <tr>
+                    <h2>Home Summer Need</h2>
+                </tr>
+                <tr>
+                    <td> <img src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2022/BAU/GW/1x_bedsheets._SY116_CB623248720_.jpg"
+                        width="200" hight="200"  />
+                        <p>Cotton bedsheets</p></td>
+                        
+                    <td>
+                        <img src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2022/BAU/GW/1x_emergencylight._SY116_CB623248720_.jpg"
+                        width="200" hight="200"  />
+                        <p>Emergencylight</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2022/BAU/GW/1x_towels._SY116_CB623248720_.jpg"
+                        width="200" hight="200"  />
+                        <p>Towels</p></td>
+                       
+                    <td><img src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2022/BAU/GW/1x_bucket._SY116_CB623248720_.jpg"
+                        width="200" hight="200"  />
+                        <p>Bathroom accessories</p>
+                    </td>
+                   
+                </tr>
+            
+                  
+            </table></td>
+            <td>    <table>
+                <tr>
+                    <h2>Electronic Devices for Home Office</h2>
+                </tr>
+                <tr>
+                    <td> <img src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/PC/Computers/GW/DBQC/D21343116_IN_CEPC_BAU_GW_graphics_March21_dbqc0.5x_5._SY116_CB655805757_.jpg"
+                        width="200" hight="200"  />
+                        <p>Smart Watches and
+                           fitness Trackers
+                        </p>
+                        
+                    </td>
+                        
+                    <td>
+                        <img src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/PC/Computers/GW/DBQC/D21343116_IN_CEPC_BAU_GW_graphics_March21_dbqc0.5x_6._SY116_CB655805757_.jpg"
+                        width="200" hight="200"  />
+                        <p>Tablets</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/PC/Computers/GW/DBQC/D21343116_IN_CEPC_BAU_GW_graphics_March21_dbqc0.5x_7._SY116_CB655805757_.jpg"
+                        width="200" hight="200"  />
+                        <p>Laptops</p></td>
+                       
+                    <td><img src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/PC/Computers/GW/DBQC/D21343116_IN_CEPC_BAU_GW_graphics_March21_dbqc0.5x_8._SY116_CB655805757_.jpg"
+                        width="200" hight="200"  />
+                        <p>Monitors</p>
+                    </td>
+                   
+                </tr>
+            
+                  
+            </table></td>
+        </tr>
+
+
+
+
+
+
+
+    </table>
+
+    
+</body>
+</html>
